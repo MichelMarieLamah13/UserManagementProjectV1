@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552248402584",
+    "project_id": "sampleapp-a9e4d",
+    "storage_bucket": "sampleapp-a9e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552248402584:android:5f6e8fbfeba3c77af766ed",
+        "android_client_info": {
+          "package_name": "ensa.application01.usermanagementprojectv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552248402584-0cujrdprcmca27vjnjnsfhuogdeckp20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZ_G-IJ4Cg71Bde-HijeztkCm0eryjQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552248402584-0cujrdprcmca27vjnjnsfhuogdeckp20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
